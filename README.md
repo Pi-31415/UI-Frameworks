@@ -2,8 +2,8 @@
 The list of UI Frameworks for web/mobile I usually use
 
 ### Framework List
-
-- [Vuetify](https://vuetifyjs.com/en/) - Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips..
+- [LightVue](https://vue3.lightvue.org/) - Personal Favourite
+- [Vuetify](https://vuetifyjs.com/en/) - Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips.
 - [BalmUI](https://material.balmjs.com/#/) - BalmUI is a Google Material design system – backed by open-source code – that helps teams build high-quality digital experiences.
 - [Framework 7](https://framework7.io/) - Build full featured iOS, Android & Desktop apps.
 - [MATERIAL-UI](https://material-ui.com/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
